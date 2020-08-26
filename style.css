@@ -1,0 +1,41 @@
+body {
+	background: #9887cd !important;
+}
+
+.header {
+	margin-top: 20px !important;
+	color: white !important;
+	padding: 25px !important;
+}
+
+.header i {
+	color: white !important;
+}
+
+.mylist {
+	margin-top: 20px !important;
+}
+
+.listBack {
+	background: #6b696ab8 !important;
+}
+
+.item:hover {
+	background-color: #6b696af7 !important;
+}
+
+.item > .right {
+	padding: 25px !important;
+}
+
+.todo {
+	font-size: 20px !important;
+}
+
+.didList {
+	margin-bottom: 100px;
+}
+
+.didListBack {
+	background: #8bf45a59 !important;
+}
